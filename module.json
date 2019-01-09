@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Hide-People",
+	"options": {
+		"niceName": "屏蔽玩家",
+		"guiName": "屏蔽玩家"
+	},
+	"author": "ZC",
+	"description": "描述: 分类隐藏玩家模型",
+	"servers": ["https://raw.githubusercontent.com/zc149352394/Hide-People/master/"],
+	"supportUrl": "https://github.com/zc149352394/Hide-People/issues"
+}

@@ -1,0 +1,14 @@
+{
+	"enabled": true,
+	"hideParty": false,
+	"hideGuild": false,
+	"hideBlack": false,
+	"hideBlackList": [
+		"示例-公会昵称",
+		"DarkKnight",
+		"BaopiEmpire"
+	],
+	"instanceList": [
+		102, 103, 110, 111, 112, 116, 117, 118, 119, "战场"
+	]
+}
